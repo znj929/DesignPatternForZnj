@@ -1,4 +1,4 @@
-package factory;
+package factory.easy;
 
 /**
  * @Author: znj
