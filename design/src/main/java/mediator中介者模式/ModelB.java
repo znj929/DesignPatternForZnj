@@ -1,4 +1,4 @@
-package mediator;
+package mediator中介者模式;
 
 /**
  * @Author: znj
